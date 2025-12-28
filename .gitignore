@@ -1,0 +1,9 @@
+.project
+.classpath
+.settings/
+.metadata/
+.factorypath
+
+target/
+**/target/
+aiqo-ai-submitter/src/main/resources/application.properties
